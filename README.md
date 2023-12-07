@@ -1,2 +1,2 @@
 # Mealify
-Responsive Web Design 
+Responsive Web Design Using HTML CSS
